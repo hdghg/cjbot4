@@ -1,7 +1,7 @@
 package handlers;
 
-import com.gitlab.hdghg.cjbot3.service.BuildInfoService;
-import com.gitlab.hdghg.cjbot3.service.MessageService;
+import com.gitlab.hdghg.cjbot4.service.BuildInfoService;
+import com.gitlab.hdghg.cjbot4.service.MessageService;
 import ru.sber.platformv.faas.api.HttpFunction;
 import ru.sber.platformv.faas.api.HttpRequest;
 import ru.sber.platformv.faas.api.HttpResponse;

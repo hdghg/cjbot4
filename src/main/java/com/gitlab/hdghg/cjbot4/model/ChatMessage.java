@@ -1,4 +1,4 @@
-package com.gitlab.hdghg.cjbot3.model;
+package com.gitlab.hdghg.cjbot4.model;
 
 public class ChatMessage {
 

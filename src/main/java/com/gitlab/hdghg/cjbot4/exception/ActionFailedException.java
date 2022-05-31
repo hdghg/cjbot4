@@ -1,4 +1,4 @@
-package com.gitlab.hdghg.cjbot3.exception;
+package com.gitlab.hdghg.cjbot4.exception;
 
 public class ActionFailedException extends Exception {
 

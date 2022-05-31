@@ -1,6 +1,6 @@
-package com.gitlab.hdghg.cjbot3.service;
+package com.gitlab.hdghg.cjbot4.service;
 
-import com.gitlab.hdghg.cjbot3.model.ChatMessage;
+import com.gitlab.hdghg.cjbot4.model.ChatMessage;
 import com.pengrad.telegrambot.request.SendMessage;
 import org.junit.jupiter.api.Test;
 

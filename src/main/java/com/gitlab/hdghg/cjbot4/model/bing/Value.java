@@ -1,4 +1,4 @@
-package com.gitlab.hdghg.cjbot3.model.bing;
+package com.gitlab.hdghg.cjbot4.model.bing;
 
 public class Value {
 

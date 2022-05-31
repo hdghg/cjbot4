@@ -1,6 +1,6 @@
-package com.gitlab.hdghg.cjbot3.service;
+package com.gitlab.hdghg.cjbot4.service;
 
-import com.gitlab.hdghg.cjbot3.exception.ActionFailedException;
+import com.gitlab.hdghg.cjbot4.exception.ActionFailedException;
 import com.pengrad.telegrambot.response.BaseResponse;
 
 import static java.text.MessageFormat.format;

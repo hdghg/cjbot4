@@ -1,4 +1,4 @@
-package com.gitlab.hdghg.cjbot3.config;
+package com.gitlab.hdghg.cjbot4.config;
 
 import com.google.gson.Gson;
 import okhttp3.OkHttpClient;

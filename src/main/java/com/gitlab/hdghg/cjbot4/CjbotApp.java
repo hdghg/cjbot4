@@ -1,6 +1,6 @@
-package com.gitlab.hdghg.cjbot3;
+package com.gitlab.hdghg.cjbot4;
 
-import com.gitlab.hdghg.cjbot3.service.MessageService;
+import com.gitlab.hdghg.cjbot4.service.MessageService;
 
 public class CjbotApp {
 

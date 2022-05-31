@@ -1,7 +1,7 @@
-package com.gitlab.hdghg.cjbot3.module.puk;
+package com.gitlab.hdghg.cjbot4.module.puk;
 
-import com.gitlab.hdghg.cjbot3.model.ChatMessage;
-import com.gitlab.hdghg.cjbot3.module.Module;
+import com.gitlab.hdghg.cjbot4.model.ChatMessage;
+import com.gitlab.hdghg.cjbot4.module.Module;
 import com.pengrad.telegrambot.model.Message;
 import com.pengrad.telegrambot.model.User;
 

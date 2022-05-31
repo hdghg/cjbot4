@@ -1,10 +1,10 @@
-package com.gitlab.hdghg.cjbot3.service;
+package com.gitlab.hdghg.cjbot4.service;
 
-import com.gitlab.hdghg.cjbot3.model.ChatMessage;
-import com.gitlab.hdghg.cjbot3.module.Module;
-import com.gitlab.hdghg.cjbot3.module.bing.BingSearchModule;
-import com.gitlab.hdghg.cjbot3.module.bing.SearchClient;
-import com.gitlab.hdghg.cjbot3.module.puk.PukModule;
+import com.gitlab.hdghg.cjbot4.model.ChatMessage;
+import com.gitlab.hdghg.cjbot4.module.Module;
+import com.gitlab.hdghg.cjbot4.module.bing.BingSearchModule;
+import com.gitlab.hdghg.cjbot4.module.bing.SearchClient;
+import com.gitlab.hdghg.cjbot4.module.puk.PukModule;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;
 import com.pengrad.telegrambot.model.Message;

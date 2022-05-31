@@ -1,6 +1,6 @@
-package com.gitlab.hdghg.cjbot3.module.bing;
+package com.gitlab.hdghg.cjbot4.module.bing;
 
-import com.gitlab.hdghg.cjbot3.model.ChatMessage;
+import com.gitlab.hdghg.cjbot4.model.ChatMessage;
 import com.pengrad.telegrambot.model.Chat;
 import com.pengrad.telegrambot.model.Message;
 import org.junit.jupiter.api.Disabled;

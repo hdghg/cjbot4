@@ -1,7 +1,7 @@
-package com.gitlab.hdghg.cjbot3.module.bing;
+package com.gitlab.hdghg.cjbot4.module.bing;
 
-import com.gitlab.hdghg.cjbot3.config.RestConfig;
-import com.gitlab.hdghg.cjbot3.model.bing.SearchResult;
+import com.gitlab.hdghg.cjbot4.config.RestConfig;
+import com.gitlab.hdghg.cjbot4.model.bing.SearchResult;
 import okhttp3.HttpUrl;
 import okhttp3.Request;
 import okhttp3.ResponseBody;
